@@ -1,3 +1,12 @@
 /Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/C_Coding_Test.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_2744.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_2754.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_27866.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_11718.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_9086.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_26546.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_15964.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_1120.dir
+/Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/_1072.dir
 /Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/swh/C-Coding-Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
